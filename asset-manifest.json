@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Resume/static/css/main.1cc0334f.css",
-    "main.js": "/Resume/static/js/main.e6ffc7aa.js",
+    "main.js": "/Resume/static/js/main.5e3d4943.js",
     "static/js/415.4d6acbeb.chunk.js": "/Resume/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Resume/static/js/787.1ed0c42c.chunk.js",
     "static/media/snoopycash.png": "/Resume/static/media/snoopycash.b97d012a3e0c290ccc75.png",
@@ -10,8 +10,8 @@
     "static/media/digitek_shop.png": "/Resume/static/media/digitek_shop.b56c2aa0304d84bdc3a2.png",
     "static/media/VIRTUAL_MEDICARE.png": "/Resume/static/media/VIRTUAL_MEDICARE.4a56edc16bd63f7443b5.png",
     "static/media/ecommerce_website.png": "/Resume/static/media/ecommerce_website.332098341fe34a605e62.png",
-    "static/media/Resume.pdf": "/Resume/static/media/Resume.22d583545f43eea99763.pdf",
-    "static/media/Resume_2.pdf": "/Resume/static/media/Resume_2.22d583545f43eea99763.pdf",
+    "static/media/Resume.pdf": "/Resume/static/media/Resume.ecaf67083689577c9c21.pdf",
+    "static/media/Resume_2.pdf": "/Resume/static/media/Resume_2.ecaf67083689577c9c21.pdf",
     "static/media/home-main.svg": "/Resume/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Resume/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/business_store.png": "/Resume/static/media/business_store.a41b415d15c43f1b34bf.png",
@@ -23,12 +23,12 @@
     "static/media/pre.svg": "/Resume/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Resume/index.html",
     "main.1cc0334f.css.map": "/Resume/static/css/main.1cc0334f.css.map",
-    "main.e6ffc7aa.js.map": "/Resume/static/js/main.e6ffc7aa.js.map",
+    "main.5e3d4943.js.map": "/Resume/static/js/main.5e3d4943.js.map",
     "415.4d6acbeb.chunk.js.map": "/Resume/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Resume/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cc0334f.css",
-    "static/js/main.e6ffc7aa.js"
+    "static/js/main.5e3d4943.js"
   ]
 }
